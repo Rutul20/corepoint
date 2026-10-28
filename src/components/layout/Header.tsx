@@ -40,10 +40,19 @@ export function Header() {
   return (
     <header
       className={cn(
-        'fixed inset-x-0 top-0 z-50 transition-[background-color,border-color] duration-500 ease-premium',
-        solid ? 'border-b border-line bg-white/90 backdrop-blur-xl' : 'border-b border-transparent bg-transparent',
+        'fixed inset-x-0 top-0 z-50 border-b transition-[border-color] duration-500 ease-premium',
+        solid ? 'border-line' : 'border-transparent',
       )}
     >
+      {/* Frosted background on its own layer: a backdrop-filter on <header> itself would trap the
+          fixed-position mobile menu inside the header's 64 px instead of the full screen. */}
+      <div
+        aria-hidden="true"
+        className={cn(
+          'absolute inset-0 -z-10 transition-[background-color] duration-500 ease-premium',
+          solid ? 'bg-white/90 backdrop-blur-xl' : 'bg-transparent',
+        )}
+      />
       <Container className="flex h-16 items-center justify-between gap-6 lg:h-[72px]">
         <Logo />
 
@@ -87,7 +96,8 @@ export function Header() {
             <Phone className="h-3.5 w-3.5" aria-hidden="true" />
             {officePhone.display}
           </a>
-          <Link to={enquiryHref('demo', 'aura-500')} className={buttonClasses('primary', 'sm', 'hidden sm:inline-flex')}>
+          {/* On phones this lives in the menu instead, so the menu button always fits. */}
+          <Link to={enquiryHref('demo', 'aura-500')} className={buttonClasses('primary', 'sm', 'max-sm:hidden')}>
             Request a Demo
           </Link>
           <button
