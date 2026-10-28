@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <!-- Corepoint Healthcare mark, redrawn. Replace with the official logo file when available. -->
+  <rect width="48" height="48" rx="11" fill="#FFFFFF"/>
+  <path d="M36.7 11.3 A18 18 0 1 0 36.7 36.7" fill="none" stroke="#1F2240" stroke-width="8"/>
+  <path d="M19 15.5h7.5a6 6 0 0 1 0 12H24.5v7h-5.5z" fill="#D71935"/>
+</svg>
