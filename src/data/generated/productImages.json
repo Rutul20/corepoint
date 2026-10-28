@@ -1,0 +1,506 @@
+{
+  "aura-500-premium-plus-1": {
+    "large": {
+      "src": "/images/products/aura-500-premium-plus-1-1000.jpeg",
+      "width": 1000,
+      "height": 667,
+      "bytes": 29676
+    },
+    "small": {
+      "src": "/images/products/aura-500-premium-plus-1-500.jpeg",
+      "width": 500,
+      "height": 334,
+      "bytes": 11259
+    }
+  },
+  "aura-500-premium-plus-2": {
+    "large": {
+      "src": "/images/products/aura-500-premium-plus-2-1000.jpeg",
+      "width": 666,
+      "height": 1000,
+      "bytes": 19250
+    },
+    "small": {
+      "src": "/images/products/aura-500-premium-plus-2-500.jpeg",
+      "width": 333,
+      "height": 500,
+      "bytes": 7555
+    }
+  },
+  "aura-500-premium-plus-3": {
+    "large": {
+      "src": "/images/products/aura-500-premium-plus-3-1000.jpeg",
+      "width": 1000,
+      "height": 666,
+      "bytes": 29091
+    },
+    "small": {
+      "src": "/images/products/aura-500-premium-plus-3-500.jpeg",
+      "width": 500,
+      "height": 333,
+      "bytes": 11726
+    }
+  },
+  "aura-500-premium-plus-4": {
+    "large": {
+      "src": "/images/products/aura-500-premium-plus-4-1000.jpeg",
+      "width": 1000,
+      "height": 750,
+      "bytes": 112216
+    },
+    "small": {
+      "src": "/images/products/aura-500-premium-plus-4-500.jpeg",
+      "width": 500,
+      "height": 375,
+      "bytes": 35069
+    }
+  },
+  "aura-500-overhanging-1": {
+    "large": {
+      "src": "/images/products/aura-500-overhanging-1-1000.jpeg",
+      "width": 1000,
+      "height": 666,
+      "bytes": 30514
+    },
+    "small": {
+      "src": "/images/products/aura-500-overhanging-1-500.jpeg",
+      "width": 500,
+      "height": 333,
+      "bytes": 11823
+    }
+  },
+  "aura-500-overhanging-2": {
+    "large": {
+      "src": "/images/products/aura-500-overhanging-2-1000.jpeg",
+      "width": 1000,
+      "height": 666,
+      "bytes": 22785
+    },
+    "small": {
+      "src": "/images/products/aura-500-overhanging-2-500.jpeg",
+      "width": 500,
+      "height": 333,
+      "bytes": 8872
+    }
+  },
+  "aura-500-overhanging-3": {
+    "large": {
+      "src": "/images/products/aura-500-overhanging-3-1000.jpeg",
+      "width": 1000,
+      "height": 666,
+      "bytes": 19998
+    },
+    "small": {
+      "src": "/images/products/aura-500-overhanging-3-500.jpeg",
+      "width": 500,
+      "height": 333,
+      "bytes": 8032
+    }
+  },
+  "aura-500-overhanging-4": {
+    "large": {
+      "src": "/images/products/aura-500-overhanging-4-1000.jpeg",
+      "width": 1000,
+      "height": 666,
+      "bytes": 19306
+    },
+    "small": {
+      "src": "/images/products/aura-500-overhanging-4-500.jpeg",
+      "width": 500,
+      "height": 333,
+      "bytes": 8136
+    }
+  },
+  "aura-400-1": {
+    "large": {
+      "src": "/images/products/aura-400-1-1000.jpeg",
+      "width": 1000,
+      "height": 666,
+      "bytes": 28496
+    },
+    "small": {
+      "src": "/images/products/aura-400-1-500.jpeg",
+      "width": 500,
+      "height": 333,
+      "bytes": 11202
+    }
+  },
+  "aura-400-2": {
+    "large": {
+      "src": "/images/products/aura-400-2-1000.jpeg",
+      "width": 1000,
+      "height": 666,
+      "bytes": 34376
+    },
+    "small": {
+      "src": "/images/products/aura-400-2-500.jpeg",
+      "width": 500,
+      "height": 333,
+      "bytes": 13928
+    }
+  },
+  "aura-400-3": {
+    "large": {
+      "src": "/images/products/aura-400-3-1000.jpeg",
+      "width": 1000,
+      "height": 666,
+      "bytes": 31222
+    },
+    "small": {
+      "src": "/images/products/aura-400-3-500.jpeg",
+      "width": 500,
+      "height": 333,
+      "bytes": 12244
+    }
+  },
+  "aura-300-1": {
+    "large": {
+      "src": "/images/products/aura-300-1-1000.jpeg",
+      "width": 1000,
+      "height": 666,
+      "bytes": 27662
+    },
+    "small": {
+      "src": "/images/products/aura-300-1-500.jpeg",
+      "width": 500,
+      "height": 333,
+      "bytes": 10919
+    }
+  },
+  "aura-200-1": {
+    "large": {
+      "src": "/images/products/aura-200-1-1000.jpeg",
+      "width": 750,
+      "height": 1000,
+      "bytes": 115927
+    },
+    "small": {
+      "src": "/images/products/aura-200-1-500.jpeg",
+      "width": 375,
+      "height": 500,
+      "bytes": 34630
+    }
+  },
+  "aura-200-3": {
+    "large": {
+      "src": "/images/products/aura-200-3-1000.jpeg",
+      "width": 1000,
+      "height": 563,
+      "bytes": 52946
+    },
+    "small": {
+      "src": "/images/products/aura-200-3-500.jpeg",
+      "width": 500,
+      "height": 281,
+      "bytes": 17420
+    }
+  },
+  "alerio-handheld-x-ray": {
+    "large": {
+      "src": "/images/products/alerio-handheld-x-ray-1000.webp",
+      "width": 868,
+      "height": 1000,
+      "bytes": 10204
+    },
+    "small": {
+      "src": "/images/products/alerio-handheld-x-ray-500.webp",
+      "width": 434,
+      "height": 500,
+      "bytes": 4636
+    }
+  },
+  "portable-dental-x-ray": {
+    "large": {
+      "src": "/images/products/portable-dental-x-ray-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 21917
+    },
+    "small": {
+      "src": "/images/products/portable-dental-x-ray-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 8244
+    }
+  },
+  "vatech-handheld-x-ray": {
+    "large": {
+      "src": "/images/products/vatech-handheld-x-ray-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 34676
+    },
+    "small": {
+      "src": "/images/products/vatech-handheld-x-ray-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 13910
+    }
+  },
+  "ams-dental-x-ray": {
+    "large": {
+      "src": "/images/products/ams-dental-x-ray-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 57506
+    },
+    "small": {
+      "src": "/images/products/ams-dental-x-ray-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 22557
+    }
+  },
+  "x-ray-machine": {
+    "large": {
+      "src": "/images/products/x-ray-machine-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 49046
+    },
+    "small": {
+      "src": "/images/products/x-ray-machine-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 17389
+    }
+  },
+  "cbct-machine": {
+    "large": {
+      "src": "/images/products/cbct-machine-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 41931
+    },
+    "small": {
+      "src": "/images/products/cbct-machine-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 16203
+    }
+  },
+  "vatech-ezsensor": {
+    "large": {
+      "src": "/images/products/vatech-ezsensor-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 65623
+    },
+    "small": {
+      "src": "/images/products/vatech-ezsensor-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 20382
+    }
+  },
+  "rvg-sensor": {
+    "large": {
+      "src": "/images/products/rvg-sensor-1000.jpeg",
+      "width": 1000,
+      "height": 667,
+      "bytes": 42202
+    },
+    "small": {
+      "src": "/images/products/rvg-sensor-500.jpeg",
+      "width": 500,
+      "height": 333,
+      "bytes": 14755
+    }
+  },
+  "intraoral-camera": {
+    "large": {
+      "src": "/images/products/intraoral-camera-1000.jpeg",
+      "width": 787,
+      "height": 1000,
+      "bytes": 71832
+    },
+    "small": {
+      "src": "/images/products/intraoral-camera-500.jpeg",
+      "width": 393,
+      "height": 500,
+      "bytes": 26432
+    }
+  },
+  "3shape-trios-scanner": {
+    "large": {
+      "src": "/images/products/3shape-trios-scanner-1000.webp",
+      "width": 1000,
+      "height": 600,
+      "bytes": 27680
+    },
+    "small": {
+      "src": "/images/products/3shape-trios-scanner-500.webp",
+      "width": 500,
+      "height": 300,
+      "bytes": 12326
+    }
+  },
+  "woodpecker-scaler": {
+    "large": {
+      "src": "/images/products/woodpecker-scaler-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 34642
+    },
+    "small": {
+      "src": "/images/products/woodpecker-scaler-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 13228
+    }
+  },
+  "endo-motor": {
+    "large": {
+      "src": "/images/products/endo-motor-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 42755
+    },
+    "small": {
+      "src": "/images/products/endo-motor-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 16304
+    }
+  },
+  "dental-handpieces": {
+    "large": {
+      "src": "/images/products/dental-handpieces-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 26213
+    },
+    "small": {
+      "src": "/images/products/dental-handpieces-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 9419
+    }
+  },
+  "air-rotor-handpiece": {
+    "large": {
+      "src": "/images/products/air-rotor-handpiece-1000.jpg",
+      "width": 1000,
+      "height": 888,
+      "bytes": 48733
+    },
+    "small": {
+      "src": "/images/products/air-rotor-handpiece-500.jpg",
+      "width": 500,
+      "height": 444,
+      "bytes": 19463
+    }
+  },
+  "air-compressor": {
+    "large": {
+      "src": "/images/products/air-compressor-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 61545
+    },
+    "small": {
+      "src": "/images/products/air-compressor-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 21697
+    }
+  },
+  "auto-drain-suction": {
+    "large": {
+      "src": "/images/products/auto-drain-suction-1000.webp",
+      "width": 1000,
+      "height": 967,
+      "bytes": 18036
+    },
+    "small": {
+      "src": "/images/products/auto-drain-suction-500.webp",
+      "width": 500,
+      "height": 483,
+      "bytes": 7886
+    }
+  },
+  "delivery-system": {
+    "large": {
+      "src": "/images/products/delivery-system-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 51190
+    },
+    "small": {
+      "src": "/images/products/delivery-system-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 17614
+    }
+  },
+  "dental-stool": {
+    "large": {
+      "src": "/images/products/dental-stool-1000.jpeg",
+      "width": 666,
+      "height": 1000,
+      "bytes": 18933
+    },
+    "small": {
+      "src": "/images/products/dental-stool-500.jpeg",
+      "width": 333,
+      "height": 500,
+      "bytes": 7570
+    }
+  },
+  "uv-chamber": {
+    "large": {
+      "src": "/images/products/uv-chamber-1000.jpeg",
+      "width": 692,
+      "height": 1000,
+      "bytes": 39117
+    },
+    "small": {
+      "src": "/images/products/uv-chamber-500.jpeg",
+      "width": 346,
+      "height": 500,
+      "bytes": 15097
+    }
+  },
+  "dressing-drum": {
+    "large": {
+      "src": "/images/products/dressing-drum-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 103633
+    },
+    "small": {
+      "src": "/images/products/dressing-drum-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 32951
+    }
+  },
+  "service-chair-repair": {
+    "large": {
+      "src": "/images/products/service-chair-repair-1000.jpeg",
+      "width": 1000,
+      "height": 750,
+      "bytes": 106367
+    },
+    "small": {
+      "src": "/images/products/service-chair-repair-500.jpeg",
+      "width": 500,
+      "height": 375,
+      "bytes": 33314
+    }
+  },
+  "service-rvg-repair": {
+    "large": {
+      "src": "/images/products/service-rvg-repair-1000.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 74192
+    },
+    "small": {
+      "src": "/images/products/service-rvg-repair-500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 27418
+    }
+  }
+}
